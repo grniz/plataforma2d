@@ -1,0 +1,12 @@
+[gd_resource type="Resource" script_class="Weapon" load_steps=3 format=3 uid="uid://ctxfb6qkawa5d"]
+
+[ext_resource type="Script" path="res://weapon.gd" id="1_0me72"]
+[ext_resource type="Texture2D" uid="uid://wxefnkjpmv2y" path="res://Assets/Sprites/weapons/Arco.png" id="2_v4au5"]
+
+[resource]
+script = ExtResource("1_0me72")
+name = "Arco Largo"
+texture = ExtResource("2_v4au5")
+damage = 17.0
+animation = "Arco"
+projectile = 0
