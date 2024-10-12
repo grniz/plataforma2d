@@ -60,7 +60,6 @@ tile_set = ExtResource("6_247un")
 
 [node name="Player" parent="." instance=ExtResource("7_ohwth")]
 position = Vector2(192, 108)
-speed = 150
 jumpForce = 400
 
 [node name="Camera2D" parent="." node_paths=PackedStringArray("PLAYER") instance=ExtResource("8_kb4rh")]

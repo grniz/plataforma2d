@@ -8,5 +8,5 @@ script = ExtResource("1_0me72")
 name = "Arco Largo"
 texture = ExtResource("2_v4au5")
 damage = 17.0
-animation = "Arco"
+animation = "Bow"
 projectile = 0
